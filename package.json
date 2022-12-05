@@ -18,6 +18,11 @@
     "@angular/platform-browser": "^14.1.0",
     "@angular/platform-browser-dynamic": "^14.1.0",
     "@angular/router": "^14.1.0",
+    "@ngrx/effects": "^14.3.2",
+    "@ngrx/store": "^14.3.2",
+    "@ngrx/store-devtools": "^14.3.2",
+    "angular-in-memory-web-api": "^0.14.0",
+    "bootstrap": "^5.2.3",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"

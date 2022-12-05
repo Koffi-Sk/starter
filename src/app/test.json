@@ -1,0 +1,14 @@
+{
+    "users": [],
+    "isAdmin": true,
+    "isFilterOpen": true,
+    "products": [],
+
+    "users": {
+        "userList": [],
+        "isAdmin": true
+    },
+    "ui": {
+        
+    }
+}
